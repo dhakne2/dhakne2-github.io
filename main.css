@@ -1,10 +1,11 @@
 h1 {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(121,149,117);
+  color: rgb(204, 30, 33);
 }
 
 h2 {
 	font-size: 32px;
 	font-family: Palatino, 'Palatino Linotype', serif;
+	color: rgb(188, 188, 188);
 }
